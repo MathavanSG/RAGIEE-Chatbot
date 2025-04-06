@@ -1,0 +1,15 @@
+pypdf
+numpy 
+scikit-learn
+sentence-transformers==2.2.2 
+transformers==4.35.2
+huggingface-hub==0.16.4
+faiss-cpu
+groq
+streamlit 
+streamlit-pdf-viewer
+pymupdf
+
+// If Models is not downloaded, download it
+// git clone https://huggingface.co/thenlper/gte-base
+// move it under the models directory
