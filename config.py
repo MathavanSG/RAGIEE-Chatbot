@@ -8,7 +8,7 @@ TOP_K_RETRIEVAL = 5
 
 # === Groq/OpenAI LLM (optional)
 USE_GROQ = True
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "fill-your-api-key"
 GROQ_MODEL = "llama3-8b-8192"
 
 
