@@ -40,3 +40,5 @@
 - [Groq API](https://console.groq.com/) with LLaMA-3 for answer generation
 
 
+## Note: Make sure to instal the embedding model locally via git lfs method 
+
